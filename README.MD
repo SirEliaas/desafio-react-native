@@ -8,6 +8,13 @@ utilizando a biblioteca [react-native](https://reactnative.dev/).
 Sua missão é desenvolver uma gestão de produtos ([CRUD](https://pt.wikipedia.org/wiki/CRUD)), para isso você irá utilizar algumas tecnologias como [redux](https://redux.js.org/) e [react-navigation](https://reactnavigation.org/).
 O redux você utilizará para salvar a lista de produtos globalmente para ter acesso em todos os componentes, já o react-navigation você vai utilizar para fazer toda a navegação entre telas do aplicativo.
 
+### ESTRUTURA DO PROJETO
+**SRC ->** PASTA ONDE FICA TUDO O QUE O DESENVOLVEDOR CRIA/ALTERA;
+**SRC/ROUTES ->** CONFIGURAÇÃO DE ROTAS DO REACT-NAVIGATION;
+**SRC/SCREENS ->** PASTA ONDE FICA SALVA TODAS AS TELAS QUE TERÃO NO APLICATIVO;
+**SRC/SERVICES ->** PASTA PARA ADICIONAR ALGUMA IMPLEMENTAÇÃO DE UM SERVIÇO EXTERNO, EXEMPLO O AXIOS;
+**SRC/STORE ->** PASTA PARA TODA A ESTRUTURA DO REDUX;
+
 ### SCREENS
 
 **1. MainScreen** 
