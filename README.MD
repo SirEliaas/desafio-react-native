@@ -9,7 +9,7 @@ Sua missão é desenvolver uma gestão de produtos ([CRUD](https://pt.wikipedia.
 O redux você utilizará para salvar a lista de produtos globalmente para ter acesso em todos os componentes, já o react-navigation você vai utilizar para fazer toda a navegação entre telas do aplicativo.
 
 ### ESTRUTURA DO PROJETO
-**SRC ->** PASTA ONDE FICA TUDO O QUE O DESENVOLVEDOR CRIA/ALTERA; <br />
+**SRC ->** CAMINHO GERAL; <br />
 **SRC/ROUTES ->** CONFIGURAÇÃO DE ROTAS DO REACT-NAVIGATION; <br />
 **SRC/SCREENS ->** PASTA ONDE FICA SALVA TODAS AS TELAS QUE TERÃO NO APLICATIVO; <br />
 **SRC/SERVICES ->** PASTA PARA ADICIONAR ALGUMA IMPLEMENTAÇÃO DE UM SERVIÇO EXTERNO, EXEMPLO O AXIOS; <br />
